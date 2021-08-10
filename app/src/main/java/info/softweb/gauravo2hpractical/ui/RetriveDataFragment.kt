@@ -134,7 +134,7 @@ class RetriveDataFragment : Fragment() {
 
 
     private fun initViews() {
-        gridLinearLayoutManager = GridLayoutManager(activity, 2)
+        gridLinearLayoutManager = GridLayoutManager(activity, 3)
         adapter = DataAdapter(
             this.requireContext(),
             listData
