@@ -5,4 +5,4 @@
 ## MVVM-LiveData with Kotlin and Coroutines
 ## Room Database
 ## JetPack Navigation - Single Activity Architecture
-## Splash Screen,Login Screen,Listing Screen andProfile Screen
+## Splash Screen,Login Screen,Listing Screen and Profile Screen
